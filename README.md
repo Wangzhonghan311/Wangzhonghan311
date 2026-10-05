@@ -33,3 +33,5 @@ Public repositories use selected code and fictional samples. Private companion h
 - Preserve failures and untested boundaries; keep delivery and user acceptance separate.
 
 **Current publication:** a selected portfolio based on September 2026 work, published in October. The [project index](https://github.com/Wangzhonghan311/han/blob/master/catalog/README.md) explains the evidence and counting scope.
+
+**直接体验 / Try online:** [百世登仙](https://wangzhonghan311.github.io/baishi-dengxian/) · [SVG 动画画廊](https://wangzhonghan311.github.io/svg-motion-studies/)
